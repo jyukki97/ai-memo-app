@@ -17,7 +17,8 @@
 			"args": [
 			  "-y",
 			  "@supabase/mcp-server-supabase@latest",
-			  "--project-ref=tagcgsvsjotonlanbrjm"
+			  "--project-ref=tagcgsvsjotonlanbrjm",
+			  "--allow-write"
 			],
 			"env": {
 			  "SUPABASE_ACCESS_TOKEN": "sbp_9d79f9ec6201eabffba5333de68cdd194ee6a1be"
